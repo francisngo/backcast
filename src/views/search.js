@@ -1,7 +1,7 @@
 var SearchView = Backbone.View.extend({
 
   //target HTML search element
-  el: '.search-bar',
+  el: '.search',
 
   //initialize
   initialize: function() {
